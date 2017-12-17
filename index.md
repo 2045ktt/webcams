@@ -18,4 +18,4 @@
 <p><img src="http://s7.ipcamlive.com/streams/075a354cfb6f46081/snapshot.jpg" alt="" width="720" height="405" /></p>
 </body>
 </html>
-eck out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
